@@ -1,0 +1,146 @@
+* { box-sizing: border-box; }
+
+form { padding: 2em; }
+
+label { float: left;
+
+display: block;
+
+text-align: right;
+
+width: 8em;
+
+padding-right: 1em;
+
+clear: left; }
+
+nav { font-weight: bold;
+
+background-color: Red;
+
+text-align: center;
+
+font-size: 1.5em;
+
+padding-top: 10px;
+
+float: left;
+
+width: 400px;
+
+Height: 935px; }
+
+nav ul { list-style-type: none; padding-left: 0px; }
+
+nav a { text-decoration: none; }
+
+body { background-color: Navy;
+
+font-size: 1em;
+
+font-family: Calibri; }
+
+header { background-color: DodgerBlue;
+
+height: 200px;
+
+margin: 10px;
+
+background-repeat: no-repeat; }
+
+h1 { font-size: 3em;
+
+padding-top: 30px;
+
+padding-left: 220px;
+
+line-height: 200%;
+
+}
+
+h1 { font-size: 3em;
+
+padding-top: 30px;
+
+padding-left: 220px;
+
+line-height: 200%;
+
+}
+
+h4 { background-color: #D2B48C;
+
+font-size: 1.2em;
+
+padding-left: 10px;
+
+padding-bottom: 0px;
+
+border-bottom: 2px solid #221811;
+
+text-transform: uppercase;
+
+clear: left; }
+
+img { padding: 0px 10px }
+
+main { padding: 0px 0px 2em 0px;
+
+margin-left: 400px;
+
+height:: 1000px;
+
+background-color: White;
+
+font-color: #221811;
+
+}
+
+main h2, main h3, main h4, main p, main div, main ul, main dl { padding-left: 3em; padding-right: 2em; }
+
+header, nav, main, footer { display: block; }
+
+.floatleft { float: left; padding: 0px 20px 20px 0px; }
+
+.details { padding-left: 20%;
+
+padding-right: 20%;
+
+overflow: auto; }
+
+#wrapper { background-color: #231814;
+
+width: 80%;
+
+min-width: 1000px;
+
+max-width: 1000px;
+
+
+margin-right: auto;
+
+margin-left: auto; }
+
+#nav-bar{
+
+width:1000px;
+
+margin-right: 0px;
+
+margin-left : 0px;
+
+}
+
+footer { background-color: DodgerBlue;
+
+font-size: 1em;
+
+font-style: italic;
+
+text-align: center;
+
+padding-bottom: 20px;
+
+border: 2px solid #221811;
+
+}
